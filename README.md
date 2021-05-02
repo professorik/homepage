@@ -6,7 +6,7 @@ My personal website. Basically this is just a résumé.
 
 ## Links :link:
 - [GitHub Pages](https://professorik.github.io/homepage/)
-- [Funny video](https://www.youtube.com/watch?v=G1IbRujko-A) :mage_man: Hocus-pocus!
+- [Funny video](https://www.youtube.com/watch?v=G1IbRujko-A)
 
 ## :boom: Boom, done
 > From Oscar Wilde... 
