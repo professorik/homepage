@@ -1,0 +1,23 @@
+.avatar {
+  border-radius: 30%;
+  width: 150px;
+  height: 150px;
+}
+
+#wave {
+  color: #ff8c00;
+  padding-top: calc((100% - 1127px) / 2);
+  height: 20em;
+  box-sizing: content-box;
+  background: currentColor;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+
+#wave svg {
+  display: block;
+  position: relative;
+  top: 20em;
+}
